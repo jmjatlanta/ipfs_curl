@@ -5,7 +5,7 @@
  *      Author: JohnJones
  */
 
-#include "include/ipfs_curl/ipfs.h"
+#include "ipfs_curl/ipfs.h"
 
 namespace ipfs_curl {
 
